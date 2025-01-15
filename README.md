@@ -1,8 +1,10 @@
-# Comprehensive Guide to Setting Up Jenkins CI/CD with Docker, SonarQube, and ArgoCD on Ubuntu
+# Comprehensive Guide to Setting Up Jenkins Pipeline for Java based application using Maven, SonarQube, Argo CD, Helm and Kubernetes
 
 This guide provides a step-by-step walkthrough for setting up a Jenkins CI/CD pipeline integrated with Docker, SonarQube, and ArgoCD on an Ubuntu server.
 
 ---
+
+![Screenshot 2023-03-28 at 9 38 09 PM](https://user-images.githubusercontent.com/43399466/228301952-abc02ca2-9942-4a67-8293-f76647b6f9d8.png)
 
 ## 1. Create an EC2 Instance
 1. Launch an EC2 instance using Ubuntu OS and the `t2.large` instance type.
